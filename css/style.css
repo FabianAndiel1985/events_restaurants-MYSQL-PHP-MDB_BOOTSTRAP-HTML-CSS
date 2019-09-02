@@ -1,0 +1,71 @@
+/*ALL SITES*/
+
+body {
+	background-color: #E5E5E5;
+}
+
+ul {
+      list-style: none;
+    }
+
+footer {
+    	margin-top: 30px;
+    	height:auto;
+    	position:relative;
+      	bottom:0px;   	
+    }
+
+.logout_container {
+	margin-top: 70px;
+	font-size: 25px;
+}
+
+.logout {
+	color:black;
+}
+.logout:hover {
+	color:red;
+}
+
+.card_header_container {
+	text-align: center;
+}
+
+.button_list {
+	display:inline;
+	width:270px;
+}
+
+ul.button_list > li {
+  width:120px;
+}
+
+.navbrand_cont{
+	width:50px;
+	height:50px;
+}
+
+
+/*_________________________________________________________________
+*/
+
+
+
+#login_background {
+	background:#E5E5E5;
+	background: linear-gradient(0deg,#E5E5E5,#FCA311);
+	position:relative;
+}
+
+.loginBtn button:nth-child(1) {
+	background-color:#E5E5E5;
+}
+
+
+
+
+/*_________________________________________*/
+
+
+
+
